@@ -5,12 +5,7 @@
 /******************************************************************************/
 /* DOCUMENTATION */
 
-/* PROGRAMMER:  Luis M. Herrnsdorf  
-   ID: 5481644
-   CLASS:       COP4338 U03   TT 7:50
-   INSTRUCTOR:  William Feild
-   ASSIGNMENT:  #5.   DUE Tuesday 4/05 
-*/
+/* PROGRAMMER:  Miguel Herrnsdorf  */
 
 /* DESCRIPTION: Program that accept validated dates in the month/day/year format
  and convert each of them to the day, abbreviated month & year format. The 
