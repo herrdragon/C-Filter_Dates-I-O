@@ -1,11 +1,6 @@
 // filterDates.c
 /******************************************************************************/
-/* PROGRAMMER:  Luis M. Herrnsdorf  
-   ID: 5481644
-   CLASS:       COP4338 U03   TT 7:50
-   INSTRUCTOR:  William Feild
-   ASSIGNMENT:  #5.   DUE Tuesday 4/05
-*/
+/* PROGRAMMER:  Miguel Herrnsdorf  */
 /*DESCRIPTION: functions to read dates and validate them.
 */
 /* 
